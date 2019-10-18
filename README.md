@@ -32,7 +32,7 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 ---
 
 ## Recursos
-Este curso es una recopilación de diferentes fuentes reseñadas a continuación:
+El contenido de estos *notebooks* resulta de una recopilación de diferentes fuentes reseñadas a continuación:
 
 1. [Tutorial de Python](http://docs.python.org.ar/tutorial/3/index.html). Esta es la referencia central del curso, ofrecido por la gente amiga de [PyAr](https://www.python.org.ar/).
 2. [Python 3.7.3](https://docs.python.org/3/index.html). La documentación oficial de Python.
