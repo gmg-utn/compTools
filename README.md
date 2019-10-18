@@ -19,14 +19,14 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 ---
 
 ## Temas
-1. [Introducción](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/intro/intro.ipynb) 
-2. [Variables y tipos de datos](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/variables_tipos/variablesTipos.ipynb)
-3. [Control de flujo](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/controlFlujo/controlFlujo.ipynb) - [Problemas](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/controlFlujo/problemas.ipynb)
-4. [Funciones](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/funciones/funciones.ipynb) - [Problemas](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/funciones/funciones_problemas.ipynb)
-5. [Aritmética de punto flotante](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/puntoFlotante/puntoFlotante.ipynb)
-6. [Introducción a Numpy](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/numpy/numpy.ipynb)
-7. [Introducción a la visualización de datos](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/visualizacion/visualizacion.ipynb)
-8. [Introducción a pandas](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/pandas/pandas.ipynb)
+1. [Introducción](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/intro/intro.ipynb) 
+2. [Variables y tipos de datos](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/variables_tipos/variablesTipos.ipynb)
+3. [Control de flujo](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/controlFlujo/controlFlujo.ipynb) - [Problemas](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/controlFlujo/problemas.ipynb)
+4. [Funciones](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/funciones/funciones.ipynb) - [Problemas](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/funciones/funciones_problemas.ipynb)
+5. [Aritmética de punto flotante](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/puntoFlotante/puntoFlotante.ipynb)
+6. [Introducción a Numpy](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/numpy/numpy.ipynb)
+7. [Introducción a la visualización de datos](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/visualizacion/visualizacion.ipynb)
+8. [Introducción a pandas](https://nbviewer.jupyter.org/github/gmg-utn/compTools/blob/master/pandas/pandas.ipynb)
 
 
 ---
