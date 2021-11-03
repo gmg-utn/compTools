@@ -8,6 +8,7 @@ La idea es presentar diferentes conceptos y herramientas en forma activa y diná
 - Tener Python 3.5 o más nuevo instalado. La versión de Python puede verificarse con `python3 --version` en la línea de comandos. La última versión de Python puede descargarse de [aquí](https://www.python.org/downloads/).
 - Tener [instalado Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html).
     - Nota: En sistemas derivados de Debian la instalación es simplemente `apt install jupyter`
+- Alternativamente, se puede tener una instalación bastante completa de un entorno Python instalando [JupyterLab-desktop](https://github.com/jupyterlab/jupyterlab-desktop). Esta es una opción **muy recomendada**.
 
 Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir el curso con el material en la web, sin embargo es siempre preferible poder editar y ejecutar código localmente.
 
