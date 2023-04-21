@@ -1,5 +1,22 @@
 # Herramientas computacionales
 
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" /></a> 
+ <a href="https://es.wikipedia.org/wiki/Markdown">
+  <img src="https://img.shields.io/badge/Markdown-000001?logo=markdown&logoColor=white" alt="Markdown" /></a> 
+ <a href="https://inkscape.org/es/">
+  <img src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white" alt="Inkscape" /></a> 
+ <a href="https://neovim.io/">
+  <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" alt="Vim" /></a> 
+ <a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" /></a> 
+ <a href="https://github.com/">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a> 
+ <a href="https://colab.research.google.com/">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252" alt="Colab" /></a>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/gmg-utn/compTools?style=plastic)  ![GitHub watchers](https://img.shields.io/github/watchers/gmg-utn/compTools?style=plastic)  ![GitHub last-commit](https://img.shields.io/github/last-commit/gmg-utn/compTools?style=plastic)
+
 Esta colección de [Jupyter notebooks](https://Jupyter.org/) tiene el propósito de introducir conceptos básicos de programación, cálculo numérico y visualización utilizando el lenguaje de programación [Python](https://www.python.org/) y herramientas de [software libre](https://es.wikipedia.org/wiki/Software_libre), dirigido a los alumnos de cursos ofrecidos por el **Grupo de Materiales Granulares** (GMG) del Departamento de Ingeniería Mecánica de la UTN - FRLP.
 La idea es presentar diferentes conceptos y herramientas en forma activa y dinámica por lo que este material se irá modificando y ampliando según las necesidades de dichos cursos.
 
@@ -36,7 +53,7 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 El contenido de estos *notebooks* resulta de una recopilación de diferentes fuentes reseñadas a continuación:
 
 1. [Tutorial de Python](http://docs.python.org.ar/tutorial/3/index.html). Esta es la referencia central del curso, ofrecido por la gente amiga de [PyAr](https://www.python.org.ar/).
-2. [Python 3.7.3](https://docs.python.org/3/index.html). La documentación oficial de Python.
+2. [Python](https://docs.python.org/3/index.html). La documentación oficial de Python.
 3. [Learn Python3](https://github.com/jerry-git/learn-python3). Buena colección de diversos temas desarrollados con Jupyter notebooks.
 4. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/). Siempre es bueno echarle un vistazo a lo que hacen los mejores.
 5. [Think Python 2e](http://greenteapress.com/wp/think-python-2e/). Un libro con licencia CC clásico para aprender Python en el ámbito académico.
