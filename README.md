@@ -52,8 +52,8 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 ## Recursos
 El contenido de estos *notebooks* resulta de una recopilación de diferentes fuentes reseñadas a continuación:
 
-1. [Tutorial de Python](https://docs.python.org/es/dev/tutorial/index.html). Esta es la referencia central del curso, ofrecido por la gente amiga de [PyAr](https://www.python.org.ar/) donde además hay otros recursos para aprender el lenguaje.
-2. [Python](https://docs.python.org/3/index.html). La documentación oficial de Python.
+1. [Tutorial de Python](https://docs.python.org/es/dev/tutorial/index.html). Esta es la referencia central del curso
+2. [Recursos](https://wiki.python.org.ar/aprendiendopython/) ofrecidos por la comunidad amiga [PyAr](https://www.python.org.ar/).
 3. [Learn Python3](https://github.com/jerry-git/learn-python3). Buena colección de diversos temas desarrollados con Jupyter notebooks.
 4. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/). Material del curso ofrecido por el Massachusetts Institute of Technology.
 5. [Think Python 2e](http://greenteapress.com/wp/think-python-2e/). Un libro con licencia CC clásico para aprender Python en el ámbito académico.
