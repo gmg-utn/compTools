@@ -17,7 +17,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gmg-utn/compTools?style=plastic)  ![GitHub watchers](https://img.shields.io/github/watchers/gmg-utn/compTools?style=plastic)  ![GitHub last-commit](https://img.shields.io/github/last-commit/gmg-utn/compTools?style=plastic)
 
-Esta colección de [Jupyter notebooks](https://Jupyter.org/) tiene el propósito de introducir conceptos básicos de programación, cálculo numérico y visualización utilizando el lenguaje de programación [Python](https://www.python.org/) y herramientas de [software libre](https://es.wikipedia.org/wiki/Software_libre), dirigido a los alumnos de cursos ofrecidos por el **Grupo de Materiales Granulares** (GMG) del Departamento de Ingeniería Mecánica de la UTN - FRLP.
+Esta colección de [Jupyter notebooks](https://Jupyter.org/) tiene el propósito de introducir conceptos básicos de programación, cálculo numérico y visualización utilizando el lenguaje de programación [Python](https://www.python.org/) y herramientas de [software libre](https://es.wikipedia.org/wiki/Software_libre), dirigido a los alumnos de cursos ofrecidos por el **Grupo de Materiales Granulares** ([GMG](http://granulares.frlp.utn.edu.ar/es/)) del Departamento de Ingeniería Mecánica de la UTN - FRLP.
 La idea es presentar diferentes conceptos y herramientas en forma activa y dinámica por lo que este material se irá modificando y ampliando según las necesidades de dichos cursos.
 
 ### Requerimientos
@@ -52,10 +52,10 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 ## Recursos
 El contenido de estos *notebooks* resulta de una recopilación de diferentes fuentes reseñadas a continuación:
 
-1. [Tutorial de Python](http://docs.python.org.ar/tutorial/3/index.html). Esta es la referencia central del curso, ofrecido por la gente amiga de [PyAr](https://www.python.org.ar/).
+1. [Tutorial de Python](https://docs.python.org/es/dev/tutorial/index.html). Esta es la referencia central del curso, ofrecido por la gente amiga de [PyAr](https://www.python.org.ar/) donde además hay otros recursos para aprender el lenguaje.
 2. [Python](https://docs.python.org/3/index.html). La documentación oficial de Python.
 3. [Learn Python3](https://github.com/jerry-git/learn-python3). Buena colección de diversos temas desarrollados con Jupyter notebooks.
-4. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/). Siempre es bueno echarle un vistazo a lo que hacen los mejores.
+4. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/). Material del curso ofrecido por el Massachusetts Institute of Technology.
 5. [Think Python 2e](http://greenteapress.com/wp/think-python-2e/). Un libro con licencia CC clásico para aprender Python en el ámbito académico.
 6. [Introduction to scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures). Otra buena fuente de Jupyter notebooks orientado al cálculo científico.
 7. [Scipy Lecture Notes](https://scipy-lectures.org/index.html) Un conjunto muy completo de ejemplos desde un nivel básico a avanzado orientado a aplicaciones científicas.
